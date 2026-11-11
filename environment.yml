@@ -1,0 +1,11 @@
+name: projectA
+channels:
+  - gimli
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pygimli
+  - numpy
+  - pandas
+  - matplotlib
+  - joblib
